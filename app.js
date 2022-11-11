@@ -215,15 +215,10 @@
 // const lastNumber = 10;
 // let message = '';
 
-
-// }
-
 // let i = 11 //2 //3 //4 //5
 // let lastNumber = 33
 
-// while (i <= lastNumber) {
-//     //Итерация
-//      // инкремент 2
+// while (i <= lastNumber) {/
 //     console.log(i); //1 //2 //3 //4
 //     i++;
    
